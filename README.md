@@ -3,7 +3,7 @@ Welcome to my Python Learning Repository 🎉
 This repo contains my step-by-step journey of learning Python — from basics to advanced topics — organized into daily Jupyter Notebooks 📒 and practice programs.
 
 The goal of this repository is to:  
-✔ Build a strong foundation in Python 🏗️  
+✔ Build a strong foundation in Python 🏗️   
 ✔ Practice hands-on coding 👨‍💻  
 ✔ Work on small projects & exercises 💡  
 ✔ Document my progress like a coding diary 📅    
