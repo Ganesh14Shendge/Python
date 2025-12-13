@@ -15,7 +15,7 @@ Day 03 – comments.ipynb → Writing code comments & docstrings
 Day 04 – variables.ipynb → Variables, naming rules, dynamic typing  
 Day 05 – keywords-identifiers.ipynb → Reserved words & identifiers  
 Day 06 – user-input-type-conv.ipynb → Taking input & type casting   
-Day 07 – literals.ipynb → Numeric, string, boolean, special literals  
+Day 07 – literals.ipynb → Numeric, string, boolean, special literals   
 Day 08 – operators.ipynb → Arithmetic, relational, logical, bitwise  
 
 🟡 Control Flow  
